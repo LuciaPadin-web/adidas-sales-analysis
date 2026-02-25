@@ -1,21 +1,36 @@
-# 👟 Adidas Sales Data Analysis
+# 👟 Adidas Sales Business Intelligence Dashboard
 
 ## 📌 Project Overview
-This project analyzes Adidas retail sales data to identify key performance indicators, revenue trends and regional performance patterns.
+This project consists of a business intelligence analysis of Adidas retail sales data developed using Microsoft Power BI. The objective was to analyze sales performance, identify key revenue drivers, and generate actionable business insights through interactive dashboards.
 
 ## 🎯 Business Objective
-To explore sales performance by product, region and time in order to support data-driven decision making.
+To evaluate sales performance across products, regions, and time in order to support data-driven decision making and strategic planning.
 
-## 🛠️ Tools Used
-- Python
-- Pandas
-- Matplotlib / Seaborn
-- Jupyter Notebook
+## 🛠️ Tools & Technologies
+- Microsoft Power BI
+- Data modeling
+- DAX measures
+- KPI analysis
+- Interactive dashboard design
 
-## 📊 Key Insights
-- Identified top-performing products and regions.
-- Analyzed revenue trends over time.
-- Evaluated sales distribution across different categories.
+## 📊 Key KPIs Analyzed
+- Total Revenue
+- Total Units Sold
+- Profit
+- Sales by Region
+- Sales by Product Category
+- Monthly / Yearly Sales Trends
 
-## 📈 Conclusion
-Sales performance varies significantly by region and product category, highlighting opportunities for strategic business optimization.
+## 📈 Key Insights
+- Identified top-performing regions contributing the highest revenue.
+- Highlighted best-selling product categories.
+- Detected seasonal sales trends.
+- Compared profitability across different segments.
+
+## 📂 Files Included
+- Power BI file (.pbix)
+- Dashboard screenshots
+- Dataset (if included)
+
+## 🚀 Conclusion
+The analysis provides a clear overview of Adidas sales performance and helps identify growth opportunities through KPI tracking and regional performance evaluation. The dashboard enables stakeholders to explore data dynamically and support strategic business decisions.
